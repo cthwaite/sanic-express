@@ -1,0 +1,2 @@
+Sanic_Cors==0.9.4
+sanic==0.7.0
